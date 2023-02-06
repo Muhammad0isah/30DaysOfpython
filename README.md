@@ -1,2 +1,2 @@
 # 30DaysOfpython
-This is my exercise at Arewa Data Science 30 Days of Python
+This is my 30 Days of Python exercise at Arewa Data Science Academy
